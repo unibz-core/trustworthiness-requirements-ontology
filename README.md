@@ -1,6 +1,6 @@
 # ROTwR: A Reference Ontology of Trustworthiness Requirements
 
-ROTwR is a well-founded reference ontology, specified in OntoUML, that formally characterizes the concept of trust, as well as clarifies the relation between trust and risk, and represents how risk emerges from trust relations. 
+ROTwR is a well-founded reference ontology, specified in OntoUML, that formally characterizes the class of trustworthiness requirement.
 
 ## Project Structure
 
